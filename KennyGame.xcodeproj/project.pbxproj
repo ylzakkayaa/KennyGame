@@ -13,6 +13,15 @@
 		F0EF98DE28D5EB1200FB1826 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0EF98DC28D5EB1200FB1826 /* Main.storyboard */; };
 		F0EF98E028D5EB1200FB1826 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0EF98DF28D5EB1200FB1826 /* Assets.xcassets */; };
 		F0EF98E328D5EB1200FB1826 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0EF98E128D5EB1200FB1826 /* LaunchScreen.storyboard */; };
+		F0EF991028D5EEA200FB1826 /* kenny6.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990728D5EEA200FB1826 /* kenny6.png */; };
+		F0EF991128D5EEA200FB1826 /* kenny3.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990828D5EEA200FB1826 /* kenny3.png */; };
+		F0EF991228D5EEA200FB1826 /* kenny5.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990928D5EEA200FB1826 /* kenny5.png */; };
+		F0EF991328D5EEA200FB1826 /* kenny2.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990A28D5EEA200FB1826 /* kenny2.png */; };
+		F0EF991428D5EEA200FB1826 /* kenny1.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990B28D5EEA200FB1826 /* kenny1.png */; };
+		F0EF991528D5EEA200FB1826 /* kenny9.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990C28D5EEA200FB1826 /* kenny9.png */; };
+		F0EF991628D5EEA200FB1826 /* kenny8.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990D28D5EEA200FB1826 /* kenny8.png */; };
+		F0EF991728D5EEA200FB1826 /* kenny4.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990E28D5EEA200FB1826 /* kenny4.png */; };
+		F0EF991828D5EEA200FB1826 /* kenny7.png in Resources */ = {isa = PBXBuildFile; fileRef = F0EF990F28D5EEA200FB1826 /* kenny7.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,15 @@
 		F0EF98DF28D5EB1200FB1826 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F0EF98E228D5EB1200FB1826 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F0EF98E428D5EB1200FB1826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0EF990728D5EEA200FB1826 /* kenny6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny6.png; path = ../../../../Kenny/kenny6.png; sourceTree = "<group>"; };
+		F0EF990828D5EEA200FB1826 /* kenny3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny3.png; path = ../../../../Kenny/kenny3.png; sourceTree = "<group>"; };
+		F0EF990928D5EEA200FB1826 /* kenny5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny5.png; path = ../../../../Kenny/kenny5.png; sourceTree = "<group>"; };
+		F0EF990A28D5EEA200FB1826 /* kenny2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny2.png; path = ../../../../Kenny/kenny2.png; sourceTree = "<group>"; };
+		F0EF990B28D5EEA200FB1826 /* kenny1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny1.png; path = ../../../../Kenny/kenny1.png; sourceTree = "<group>"; };
+		F0EF990C28D5EEA200FB1826 /* kenny9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny9.png; path = ../../../../Kenny/kenny9.png; sourceTree = "<group>"; };
+		F0EF990D28D5EEA200FB1826 /* kenny8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny8.png; path = ../../../../Kenny/kenny8.png; sourceTree = "<group>"; };
+		F0EF990E28D5EEA200FB1826 /* kenny4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny4.png; path = ../../../../Kenny/kenny4.png; sourceTree = "<group>"; };
+		F0EF990F28D5EEA200FB1826 /* kenny7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kenny7.png; path = ../../../../Kenny/kenny7.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +81,15 @@
 				F0EF98DF28D5EB1200FB1826 /* Assets.xcassets */,
 				F0EF98E128D5EB1200FB1826 /* LaunchScreen.storyboard */,
 				F0EF98E428D5EB1200FB1826 /* Info.plist */,
+				F0EF990B28D5EEA200FB1826 /* kenny1.png */,
+				F0EF990A28D5EEA200FB1826 /* kenny2.png */,
+				F0EF990828D5EEA200FB1826 /* kenny3.png */,
+				F0EF990E28D5EEA200FB1826 /* kenny4.png */,
+				F0EF990928D5EEA200FB1826 /* kenny5.png */,
+				F0EF990728D5EEA200FB1826 /* kenny6.png */,
+				F0EF990F28D5EEA200FB1826 /* kenny7.png */,
+				F0EF990D28D5EEA200FB1826 /* kenny8.png */,
+				F0EF990C28D5EEA200FB1826 /* kenny9.png */,
 			);
 			path = KennyGame;
 			sourceTree = "<group>";
@@ -125,7 +152,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0EF991028D5EEA200FB1826 /* kenny6.png in Resources */,
+				F0EF991228D5EEA200FB1826 /* kenny5.png in Resources */,
+				F0EF991128D5EEA200FB1826 /* kenny3.png in Resources */,
+				F0EF991528D5EEA200FB1826 /* kenny9.png in Resources */,
+				F0EF991428D5EEA200FB1826 /* kenny1.png in Resources */,
+				F0EF991828D5EEA200FB1826 /* kenny7.png in Resources */,
+				F0EF991728D5EEA200FB1826 /* kenny4.png in Resources */,
 				F0EF98E328D5EB1200FB1826 /* LaunchScreen.storyboard in Resources */,
+				F0EF991628D5EEA200FB1826 /* kenny8.png in Resources */,
+				F0EF991328D5EEA200FB1826 /* kenny2.png in Resources */,
 				F0EF98E028D5EB1200FB1826 /* Assets.xcassets in Resources */,
 				F0EF98DE28D5EB1200FB1826 /* Main.storyboard in Resources */,
 			);
